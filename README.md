@@ -123,13 +123,15 @@ Hackathon-winning air quality platform — <b>1st Prize, Eco-Hackathon, IIT (BHU
 
 <div align="center">
 
+<img src="https://img.shields.io/github/followers/YashRawate?label=Followers&style=for-the-badge&color=6DB33F&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/YashRawate?label=Total%20Stars&style=for-the-badge&color=ED8B00&logo=github&logoColor=white" />
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=YashRawate&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRawate&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="34%" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashRawate&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashRawate&theme=tokyo-night&hide_border=true" width="85%" />
+<sub>⚠️ These two cards pull from a shared public demo server that occasionally times out under load — if either looks broken, refresh in a few minutes.</sub>
 
 </div>
 
