@@ -12,6 +12,35 @@
 
 <br/>
 
+## 👋 About
+
+Backend-leaning engineer who keeps migrating things into Java/Spring Boot because it's what production actually runs on. I care about layered architecture, clean REST contracts, and shipping systems that survive real load — not just demo day.
+
+- 🏗️ Currently building multi-agent orchestration pipelines for a Data Centre EPC platform
+- 📚 Sharpening distributed systems fundamentals and JVM performance tuning
+- 🧠 Solo-founder mindset — most of what's below was built end-to-end, alone
+
+<br/>
+
+<div align="center">
+
+### 🏆 Achievement
+
+<table>
+<tr>
+<td align="center" width="600">
+
+<h3>🥇 1st Prize — Eco-Hackathon, Technex'26, IIT (BHU)</h3>
+<sub>Won for <b>Vital Air</b> — an air quality platform later rebuilt into a production Java/Spring Boot system</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 ## 💼 Experience
 
 <table align="center">
@@ -32,37 +61,37 @@ Re-engineered an enterprise HR analytics platform from a Python Flask prototype 
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>📊 HR Analytics Dashboard</h3>
 
 Enterprise workforce analytics platform for NMDC — real-time insights into headcount, grade distribution, skill mapping, and retirement projections. Migrated Flask → Spring Boot with 100% API parity.
 
-`Java 17` `Spring Boot 3` `Apache POI` `Docker` `Render`
+<img src="https://skillicons.dev/icons?i=java,spring,docker&theme=dark" height="28"/>
 
 <img src="https://img.shields.io/badge/status-live_demo-4CAF50?style=flat-square">
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3><a href="https://github.com/YashRawate/SiteMind">🏗️ SiteMind</a></h3>
 
 AI-powered EPC platform for Data Centre construction — risk prediction, compliance automation, RFI resolution via multi-agent orchestration.
 
-`Java 21` `Spring Boot` `LangGraph` `Qdrant` `React` `K8s` `AWS`
+<img src="https://skillicons.dev/icons?i=java,spring,react,kubernetes,aws&theme=dark" height="28"/>
 
 <img src="https://img.shields.io/badge/status-in_active_dev-FF9800?style=flat-square">
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td width="50%" valign="top" colspan="2">
 
-<h3><a href="https://github.com/YashRawate/Vital-Air">🌬️ Vital Air</a></h3>
+<h3><a href="https://github.com/YashRawate/Vital-Air">🌬️ Vital Air &nbsp;🥇</a></h3>
 
-Hackathon-winning air quality platform, migrated from legacy Python/FastAPI to a high-throughput Java 21 + Spring Boot 3 production backend.
+Hackathon-winning air quality platform — <b>1st Prize, Eco-Hackathon, IIT (BHU)</b>. Migrated from legacy Python/FastAPI to a high-throughput Java 21 + Spring Boot 3 production backend.
 
-`Java 21` `Spring Boot 3` `PostgreSQL` `React`
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,react&theme=dark" height="28"/>
 
 <img src="https://img.shields.io/badge/status-hackathon_win-4CAF50?style=flat-square">
 
@@ -72,14 +101,43 @@ Hackathon-winning air quality platform, migrated from legacy Python/FastAPI to a
 
 <br/>
 
+## 🧰 Tech Stack
+
 <div align="center">
 
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashRawate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRawate&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
+**Languages & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js&theme=dark" />
 
 <br/><br/>
+
+**Infra & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YashRawate&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRawate&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="34%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashRawate&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashRawate&theme=tokyo-night&hide_border=true" width="85%" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-rawate-439382282/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashRawate)
