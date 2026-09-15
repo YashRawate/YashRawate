@@ -124,14 +124,14 @@ Hackathon-winning air quality platform — <b>1st Prize, Eco-Hackathon, IIT (BHU
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/YashRawate?label=Followers&style=for-the-badge&color=6DB33F&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/stars/YashRawate?label=Total%20Stars&style=for-the-badge&color=ED8B00&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYashRawate&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=ED8B00&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/YashRawate?label=Total%20Stars&style=for-the-badge&color=0A66C2&logo=github&logoColor=white" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashRawate&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRawate&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="34%" />
-
-<sub>⚠️ These two cards pull from a shared public demo server that occasionally times out under load — if either looks broken, refresh in a few minutes.</sub>
+<img src="https://img.shields.io/badge/HR_Analytics_Dashboard-Java-6DB33F?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/SiteMind-Java_%2F_LangGraph-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Vital_Air-Java_%2F_Spring-4CAF50?style=for-the-badge&logo=springboot&logoColor=white" />
 
 </div>
 
